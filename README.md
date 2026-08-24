@@ -25,6 +25,20 @@ The dashboard transforms raw employee data into easy-to-understand KPIs, charts,
 
 ---
 
+## 🛠️ Tools & Technologies
+### Tool
+- Purpose
+- 🟨 Microsoft Excel
+- Data cleaning, preparation & initial analysis
+- 🟦 MySQL
+- Data storage, SQL queries & data analysis
+- 🟦 Power BI
+- Interactive dashboard & data visualization
+- 🧮 DAX
+- KPI, calculated columns & measure creation
+
+---  
+
 ## 📌 Key Performance Indicators
 
 KPI| Value
