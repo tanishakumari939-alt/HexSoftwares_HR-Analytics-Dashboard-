@@ -27,8 +27,6 @@ The dashboard transforms raw employee data into easy-to-understand KPIs, charts,
 
 ## 🛠️ Tools & Technologies
 
-### Tool
-
 - 🟨 Microsoft Excel
 - Data cleaning, preparation & initial analysis
 - 🟦 MySQL
@@ -42,7 +40,7 @@ The dashboard transforms raw employee data into easy-to-understand KPIs, charts,
 
 ## 📌 Key Performance Indicators
 
-KPI| Value
+KPI : Value
 - 👥 Total Employees : 117
 - 🟢 Active Employee : 73
 - ⚠️ Attrition Count : 44
