@@ -20,5 +20,8 @@ This project focuses on analyzing employee data to understand workforce trends, 
 ##### Attrition by Gender
 ##### Attrition Trend by Experience
 ##### Department-wise Employee Count
-Age-group and salary analysis
+##### Age-group and salary analysis
+## 🎯 Project Objective
+The main objective is to identify patterns behind employee attrition and analyze factors such as salary, department, job satisfaction, age, gender, and experience to help HR teams make better workforce decisions.
+
 
