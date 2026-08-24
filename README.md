@@ -5,3 +5,10 @@ This project focuses on analyzing employee data to understand workforce trends, 
 Power BI – Dashboard and data visualization
 Microsoft Excel – Data cleaning and preparation
 DAX – Measures and KPI calculations
+## 📊 Key KPIs
+Total Employees: 117
+Active Employees: 73
+Attrition Count: 44
+Attrition Rate: 37.6%
+Average Age: 22.62
+Average Experience: 2.47 years
