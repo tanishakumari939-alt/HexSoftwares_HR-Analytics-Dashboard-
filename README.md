@@ -6,9 +6,9 @@ Power BI – Dashboard and data visualization
 Microsoft Excel – Data cleaning and preparation
 DAX – Measures and KPI calculations
 ## 📊 Key KPIs
-Total Employees: 117
-Active Employees: 73
-Attrition Count: 44
-Attrition Rate: 37.6%
-Average Age: 22.62
+Total Employees: 117/n
+Active Employees: 73/n
+Attrition Count: 44/n
+Attrition Rate: 37.6%/n
+Average Age: 22.62/n
 Average Experience: 2.47 years
