@@ -96,7 +96,9 @@ flowchart TD
 📷 Dashboard Preview
 Add your dashboard screenshot here:
 
-<img width="880" height="504" alt="image" src="https://github.com/user-attachments/assets/d57bf947-817f-46b2-b7f9-da2369946d42" />
+![HR Dashboard](dashboard.png)
+
+---
 
 
 
