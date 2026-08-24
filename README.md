@@ -28,12 +28,12 @@ The dashboard transforms raw employee data into easy-to-understand KPIs, charts,
 ## 📌 Key Performance Indicators
 
 KPI| Value
-👥 Total Employees| 117
-🟢 Active Employees| 73
-⚠️ Attrition Count| 44
-📉 Attrition Rate| 37.6%
-🎂 Average Age| 22.62
-💼 Average Experience| 2.47 Years
+- 👥 Total Employees| 117
+- 🟢 Active Employees| 73
+- ⚠️ Attrition Count| 44
+- 📉 Attrition Rate| 37.6%
+- 🎂 Average Age| 22.62
+- 💼 Average Experience| 2.47 Years
 
 ---
 
