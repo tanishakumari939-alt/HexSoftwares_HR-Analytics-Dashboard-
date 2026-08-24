@@ -96,9 +96,7 @@ flowchart TD
 📷 Dashboard Preview
 Add your dashboard screenshot here:
 
-![HR Dashboard](dashboard.png)
 
----
 
 
 
