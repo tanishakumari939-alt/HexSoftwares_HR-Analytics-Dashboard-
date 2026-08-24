@@ -113,10 +113,11 @@ Add your dashboard screenshot here:
 HR-Analytics-Dashboard/
 │
 ├── 📊 HR_Analytics_Dashboard.pbix
+├── 🖼️ HR_Dashboard_Screenshot.png
 ├── 📄 HR_Analytics_Dataset.xlsx
 ├── 🗄️ SQL_Queries.sql
-├── 🖼️ Dashboard_Screenshot.png
 └── 📘 README.md
+```
 
 ---
 
