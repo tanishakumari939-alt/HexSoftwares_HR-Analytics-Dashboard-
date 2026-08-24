@@ -109,6 +109,26 @@ Add your dashboard screenshot here:
 
 ---
 
+## 🚀 How to Use
+- Download or clone this repository.
+- Open HR_Analytics_Dashboard.pbix using Power BI Desktop.
+- Load the provided HR dataset if required.
+- Explore the interactive dashboard.
+- Use filters and visuals to analyze employee attrition.
+
+---
+
+
+## 📚 Skills Demonstrated
+- Power BI
+- DAX
+- Excel
+- Data Cleaning
+- Data Visualization
+- HR Analytics
+- KPI Development
+- Business Intelligence
+
 
 
 
