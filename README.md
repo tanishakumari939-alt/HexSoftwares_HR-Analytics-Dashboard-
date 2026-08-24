@@ -82,7 +82,7 @@ KPI| Value
 ## 🔄 Project Workflow
 
 ```mermaid
-flowchart LR
+flowchart TD
     A[📂 Raw HR Data] --> B[🧹 Data Cleaning]
     B --> C[🗄️ MySQL Database]
     C --> D[🔍 SQL Analysis]
