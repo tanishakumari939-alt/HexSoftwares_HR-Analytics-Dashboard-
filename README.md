@@ -93,8 +93,6 @@ flowchart TD
 
 ---
 
-📷 Dashboard Preview
-Add your dashboard screenshot here:
 
 
 
