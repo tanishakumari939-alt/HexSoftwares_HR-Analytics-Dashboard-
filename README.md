@@ -79,4 +79,16 @@ KPI| Value
 
 ---
 
+## 🔄 Project Workflow
+
+```mermaid
+flowchart LR
+    A[📂 Raw HR Data] --> B[🧹 Data Cleaning]
+    B --> C[🗄️ MySQL Database]
+    C --> D[🔍 SQL Analysis]
+    D --> E[📊 Power BI]
+    E --> F[🧮 DAX & KPIs]
+    F --> G[📈 Interactive Dashboard]
+    G --> H[💡 HR Insights]
+
 
