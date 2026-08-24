@@ -78,20 +78,39 @@ KPI| Value
 - Experience-based attrition trends
 
 ---
-
 ## 🔄 Project Workflow
 
 ```mermaid
 flowchart TD
-    A["Raw HR Data"] --> B["Data Cleaning"]
-    B --> C["MySQL Database"]
-    C --> D["SQL Analysis"]
-    D --> E["Power BI"]
-    E --> F["DAX & KPIs"]
-    F --> G["Interactive Dashboard"]
-    G --> H["HR Insights"]
+    A[📂 Raw HR Data] --> B[🧹 Data Cleaning]
+    B --> C[🗄️ MySQL Database]
+    C --> D[🔍 SQL Analysis]
+    D --> E[📊 Power BI]
+    E --> F[🧮 DAX & KPIs]
+    F --> G[📈 Interactive Dashboard]
+    G --> H[💡 HR Insights]
+```
+---
+
+## 📷 Dashboard Preview
+Add your dashboard screenshot here:
+
+<img width="880" height="504" alt="HR-Dashboard png" src="https://github.com/user-attachments/assets/428f27f7-ab53-4d7e-b5ff-fdd4803c9ee4" />
 
 ---
+
+## 💡 Key Insights
+- The dashboard helps identify:
+- Which departments experience higher employee attrition
+- Which salary slabs have greater employee turnover
+- How job satisfaction relates to attrition
+- How experience levels affect employee retention
+- Differences in attrition across employee demographics
+
+---
+
+
+
 
 
 
