@@ -107,6 +107,20 @@ Add your dashboard screenshot here:
 
 ---
 
+## 📁 Repository Structure
+
+```text
+HR-Analytics-Dashboard/
+│
+├── 📊 HR_Analytics_Dashboard.pbix
+├── 📄 HR_Analytics_Dataset.xlsx
+├── 🗄️ SQL_Queries.sql
+├── 🖼️ Dashboard_Screenshot.png
+└── 📘 README.md
+
+---
+
+
 ## 🚀 How to Use
 - Download or clone this repository.
 - Open HR_Analytics_Dashboard.pbix using Power BI Desktop.
