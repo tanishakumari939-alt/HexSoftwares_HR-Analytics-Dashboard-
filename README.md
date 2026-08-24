@@ -6,7 +6,7 @@ This project focuses on analyzing employee data to understand workforce trends, 
 ### Microsoft Excel – Data cleaning and preparation
 ### DAX – Measures and KPI calculations
 ## 📊 Key KPIs
-Total Employees: 117
+#### Total Employees: 117
 Active Employees: 73
 Attrition Count: 44
 Attrition Rate: 37.6%
