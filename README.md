@@ -12,3 +12,13 @@ This project focuses on analyzing employee data to understand workforce trends, 
 ##### Attrition Rate: 37.6%
 ##### Average Age: 22.62
 ##### Average Experience: 2.47 years
+## 📈 Dashboard Features
+##### Attrition by Department
+##### Attrition by Salary Slab
+##### Attrition by Job Role & Job Satisfaction
+##### Age Group Distribution
+##### Attrition by Gender
+##### Attrition Trend by Experience
+##### Department-wise Employee Count
+Age-group and salary analysis
+
