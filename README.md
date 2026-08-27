@@ -1,4 +1,4 @@
-# 📊HexSoftwares_HR Analytics Dashboard - Employee Attrition Analysis using Power BI
+# 📊 HR Analytics Dashboard - Employee Attrition Analysis using Power BI
 
 «Turning employee data into actionable HR insights.
 An interactive Power BI dashboard designed to analyze employee attrition, workforce demographics, salary patterns, job satisfaction, and departmental trends.»
